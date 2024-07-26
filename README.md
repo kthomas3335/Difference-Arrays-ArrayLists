@@ -15,7 +15,7 @@ Type Safety and Utility: Arrays are type-safe and straightforward for scenarios 
 Example Code Description
 The included Java code demonstrates using both arrays and ArrayLists. It includes the necessary import for ArrayList and illustrates how each data structure manages elements.
 
-
+```
 import java.util.ArrayList; // This line imports the ArrayList class
 
 public class DifferenceArraysArrayLists {
@@ -46,7 +46,6 @@ public class DifferenceArraysArrayLists {
             System.out.println(number);
         }
     }
-}
-
+```
 Conclusion
 This project serves as a practical guide to understanding when to use arrays and when to choose ArrayLists based on the requirements of Java applications. By comparing their behaviors through straightforward examples, the design and functional philosophies of these fundamental data structures are highlighted.
